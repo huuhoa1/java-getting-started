@@ -3,6 +3,6 @@ deploy:
   provider: heroku
   api_key:
     secure: pW6Gy8LWqORX48wgUbiTMK581ZYrbhxIsikTAVdbEy3gClMI74s7gRU/9QcK/EKamN+oS0pzUH249W9ox8yBBT6lna7/C6tadJLrNrU/lG0fNxDR+RCzSixzY+xz6oGxYwCfIM+rnXxwfLjxUD3r4+cIbOzWPgCP7BDaKD6jURJwHaHiUw7PeDu2U/SRANBGXAaK0DNpFhn/m3dv7D94zxQgGEpKohRfBuiu/QmVDXA7zgT9xyqnAEmg/uCT0GEwjykPqLx/W51ZmkIDil2QptCgH9YFFjaW1hYR9o62Mfmwn5kxFHatFlv6ytQ5eylJ75qocm+zmNmzAeP5Igxef9CxVY+gqzHz2q/Q949UjuIjXV+Le0H8z3hWawVu513ohvXFXkD05TsEx6OSZU/3SSSsFv9MwqJghfrStpNpDDFU/vsMjnwI7DiCEHI7rssd1ObsgkCO/JZSO3ah3ZuajDk+uenPwmurlUcF+aVVBkYjHziYypD/0G+L85IZDvb3+b1ZLYTBjc/JrTU8T+k2QIXf0hkMOYB3oGx6Twpy0bRwMYwK0ncdHqZmlMwjuEoBi7rK80W993XANw2KE6ttdx84/Oct0ln3cOjpLcb/YpqKFjhrCcu3NqLbYjBjNWV4Tki2gLAiknlN2xZEm7xj3jfoolff/hj9oKrldWRJo54=
-  app: java-getting-started
+  app: java-gs1
   on:
     repo: huuhoa1/java-getting-started
